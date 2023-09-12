@@ -68,5 +68,5 @@ class RecipeMenu extends \NEONBaseCPT\PostType {
 
 }
 
-# run class to create new custom post type 
+# run class to create new custom post type
 new self();
